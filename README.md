@@ -1,3 +1,11 @@
+> ## Setup
+>
+> Create the `.env` file.
+
+```sh
+cp .env.example .env
+```
+
 > ## Back End
 
 - Authentication
